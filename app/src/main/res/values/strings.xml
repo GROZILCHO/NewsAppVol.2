@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">News App Vol.2</string>
+    <string name="no_connection">There is no internet connection available.</string>
+    <string name="no_data">Currently there are no news for you. Please come back later and try again.</string>
+
+    <!-- NEWS ITEM STRINGS-->
+    <string name="sectionName">Section</string>
+    <string name="article_title">Title</string>
+    <string name="by">by</string>
+    <string name="authorName">John Doe</string>
+    <string name="article_img">Article Image</string>
+    <string name="articleDate">4.03.2018 15:45:00</string>
+    <string name="articleTime">15:45:00</string>
+
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+
+    <string name="settings_number_of_articles_label">Number of articles on screen: </string>
+    <string name="settings_number_of_articles_key" translatable="false">number_of_articles</string>
+    <string name="settings_number_of_articles_default" translatable="false">10</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <!-- Label for order-by newest option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for order-by most oldest option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <!-- Label for order-by most relevance option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Label for Preference Category Sections  [CHAR LIMIT=20] -->
+    <string name="settings_sections_title">Sections</string>
+
+    <string name="settings_section_music_key" translatable="false">section_music</string>
+    <string name="settings_section_music_label">Music</string>
+
+    <string name="settings_section_politics_key" translatable="false">section_politics</string>
+    <string name="settings_section_politics_label">Politics</string>
+
+    <string name="settings_section_environment_key" translatable="false">section_environment</string>
+    <string name="settings_section_environment_label">Environment</string>
+
+    <string name="settings_section_economics_key" translatable="false">section_economics</string>
+    <string name="settings_section_economics_label">Economics</string>
+
+    <string name="settings_section_opinion_key" translatable="false">section_opinion</string>
+    <string name="settings_section_opinion_label">Opinion</string>
+
+    <string name="settings_section_society_key" translatable="false">section_society</string>
+    <string name="settings_section_society_label">Society</string>
+
+    <string name="settings_section_design_key" translatable="false">section_design</string>
+    <string name="settings_section_design_label">Design</string>
+</resources>

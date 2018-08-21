@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_padding_8dp">8dp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="img_width">150dp</dimen>
+    <dimen name="bg_card_radius">8dp</dimen>
+    <dimen name="date_padding_2">2dp</dimen>
+    <dimen name="title_padding_5">5dp</dimen>
+    <dimen name="card_view_height">180dp</dimen>
+    <dimen name="article_devider">10dp</dimen>
+</resources>
